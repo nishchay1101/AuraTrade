@@ -1,0 +1,13 @@
+# Build output
+matching_engine
+
+# Runtime artefacts
+audit.log
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
